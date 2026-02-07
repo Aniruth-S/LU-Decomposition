@@ -12,7 +12,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Step 2: Prepare the lists from each linear equations and assign in np.array()
 ## Step 3: Using the lu(), we get three results (first is P, second is L and third is U) of the given matrix.
 ## Step 4: Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X' include the package in that variable.
-## Step 5: rint the results L and U matrices or solution X matrix.
+## Step 5: Print the results L and U matrices or solution X matrix.
 
 ## Program:
 **(i) To find the L and U matrix**
